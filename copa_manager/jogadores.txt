@@ -1,0 +1,2 @@
+1;Vini JR;1;ponta esquerda;22;4
+2;Haaland;5;centroavante;24;3

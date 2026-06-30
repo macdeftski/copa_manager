@@ -1,0 +1,5 @@
+1;Brasil;CBF;C;5;5
+2;Alemanha;GFC;B;7;4
+3;Japão;JFA;D;10;0
+4;França;FFA;A;2;3
+5;Noruega;NFA;H;17;2
